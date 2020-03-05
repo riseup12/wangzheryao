@@ -1,9 +1,5 @@
-# 【全栈之巅】Node.js + Vue.js 全栈开发王者荣耀手机端官网和管理后台
-> 本项目是 [Bilibili 全栈之巅](https://space.bilibili.com/341919508) 视频教程相关源码
-> https://github.com/wxs77577/node-vue-moba
-> 持续更新中... 敬请关注
-
-## 一、 入门
+# Node.js + Vue.js 全栈开发王者荣耀手机端官网和管理后台
+## 一、 开始
 1. 项目介绍
 1. 工具安装和环境搭建(nodejs,npm,mongodb)
 1. 初始化项目
@@ -42,7 +38,7 @@
 
 1. "工具样式"概念和 SASS (SCSS)
 1. 样式重置
-1. 网站色彩和字体定义 (colors, text)
+1. 网站色彩和字体定义 (colors, text，text)
 1. 通用flex布局样式定义 (flex)
 1. 常用边距定义 (margin, padding)
 1. 主页框架和顶部菜单
@@ -77,6 +73,5 @@
 1. 配置 Nginx 的反向代理
 1. 迁移本地数据到服务器 (mongodump)
 
-## 五、进阶
 1. 使用免费SSL证书启用HTTPS安全连接
 1. 使用阿里云OSS云存储存放上传文件
